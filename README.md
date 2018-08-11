@@ -1,2 +1,2 @@
 # eec-mp
-A website of Everest educational consultancy  developed through html only using tables
+A website of Everest Educational Consultancy  developed through table of html
